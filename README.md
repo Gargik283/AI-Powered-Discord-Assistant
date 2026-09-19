@@ -190,25 +190,5 @@ Use `.env.example` to show the required environment variables without exposing y
 GitHub: [https://github.com/Gargik283](https://github.com/Gargik283)
 
 ````
-
-### One important thing before you push it
-
-Your actual `.env` should **not** be inside GitHub. Your repository should contain:
-
-```text
-.env.example
-````
-
-but **not**:
-
-```text
-.env
-```
-
-Your `.gitignore` should contain:
-
-```text
-.env
-venv/
 __pycache__/
 ```
