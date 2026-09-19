@@ -1,4 +1,3 @@
-````markdown
 # 🤖 AI-Powered Discord Assistant
 
 An AI-powered Discord chatbot built with Python that can hold conversations, search the internet for up-to-date information, and generate images directly inside Discord.
