@@ -42,7 +42,7 @@ AI-Powered-Discord-Assistant/
 
 ## 📸 Demo
 
-![Discord Bot Demo](screenshots/discord-bot.png)
+![Discord Bot Demo](Discord%20Bot%20Demo.png)
 
 ## ⚙️ How It Works
 
