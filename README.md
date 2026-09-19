@@ -188,5 +188,3 @@ Use `.env.example` to show the required environment variables without exposing y
 **Gargi Kundu**
 
 GitHub: [https://github.com/Gargik283](https://github.com/Gargik283)
-
-````
